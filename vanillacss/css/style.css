@@ -1,0 +1,18 @@
+* {
+  margin: 1rem;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.container {
+  padding: 20px;
+  background-color: #ff1100;
+  border-radius: 8px;
+  text-align: center;
+  color: white;
+}
