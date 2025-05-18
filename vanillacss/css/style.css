@@ -43,3 +43,12 @@
 .image:hover {
   transform: scale(1.05);
 }
+
+.textarea {
+  width: 20rem;
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  resize: vertical;
+  min-height: 100px;
+}
