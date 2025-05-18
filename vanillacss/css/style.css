@@ -25,3 +25,11 @@
   border-radius: 4px;
   cursor: pointer;
 }
+
+.footer {
+  padding: 20px;
+  background-color: #111827;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+}
