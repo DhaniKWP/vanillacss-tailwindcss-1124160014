@@ -60,3 +60,15 @@
 .image-rotate:hover {
   transform: rotate(180deg);
 }
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table tr:nth-child(even) {
+  background-color: #0080ff;
+}
+.table td {
+  padding: 8px;
+  border: 1px solid black;
+}
