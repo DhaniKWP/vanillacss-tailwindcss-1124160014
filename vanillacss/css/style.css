@@ -33,3 +33,13 @@
   text-align: center;
   font-size: 14px;
 }
+
+.image {
+  width: 400px;
+  height: 250px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+.image:hover {
+  transform: scale(1.05);
+}
