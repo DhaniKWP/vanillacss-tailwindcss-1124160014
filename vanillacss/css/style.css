@@ -52,3 +52,11 @@
   resize: vertical;
   min-height: 100px;
 }
+
+.image-rotate {
+  width: 200px;
+  transition: transform 0.3s;
+}
+.image-rotate:hover {
+  transform: rotate(180deg);
+}
